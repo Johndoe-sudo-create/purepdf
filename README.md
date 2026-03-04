@@ -1,8 +1,6 @@
 # purepdf
 
 [![npm version](https://img.shields.io/npm/v/purepdf.svg)](https://www.npmjs.com/package/purepdf)
-[![license](https://img.shields.io/npm/l/purepdf.svg)](./LICENSE)
-[![bundle size](https://img.shields.io/bundlephobia/minzip/purepdf)](https://bundlephobia.com/package/purepdf)
 
 **Zero-dependency** PDF library for Node.js and browsers.
 
